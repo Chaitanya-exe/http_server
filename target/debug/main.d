@@ -1,1 +1,0 @@
-/home/frost/personal/code/rust_practice/http_server/target/debug/main: /home/frost/personal/code/rust_practice/http_server/src/bin/main.rs /home/frost/personal/code/rust_practice/http_server/src/lib.rs
